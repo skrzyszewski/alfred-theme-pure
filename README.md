@@ -18,7 +18,7 @@ $ git clone https://github.com/skrzyszewski/alfred-theme-pure.git
 
 2. Install:
 
-	* Double-click on `Pure.alfredappearance`
+ Double-click on `Pure.alfredappearance`
 
 ### Setup via Packal
 
