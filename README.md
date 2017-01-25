@@ -10,13 +10,15 @@ Clean and minimalistic theme for [Alfred](https://www.alfredapp.com/)
 
 ### Setup via GitHub
 
-1. Download
-```
-$ git clone https://github.com/skrzyszewski/alfred-theme-pure.git
-```
+1. Download:
 
-2. Install
-Double click on 'Pure.alfredappearance'
+	```
+$ git clone https://github.com/skrzyszewski/alfred-theme-pure.git
+	```
+
+2. Install:
+
+	* Double-click on `Pure.alfredappearance`
 
 ### Setup via Packal
 
