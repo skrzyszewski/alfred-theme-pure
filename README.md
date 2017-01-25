@@ -20,5 +20,4 @@ Double click on 'Pure.alfredappearance'
 
 ### Setup via Packal
 
-1. Import theme
-[Pure theme for Alfred](http://www.packal.org/theme/pure)
+1. Import theme from Packal: [Pure theme for Alfred](http://www.packal.org/theme/pure)
