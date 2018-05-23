@@ -12,9 +12,9 @@ Clean and minimalistic theme for [Alfred](https://www.alfredapp.com/)
 
 1. Download:
 
-	```
+```
 $ git clone https://github.com/skrzyszewski/alfred-theme-pure.git
-	```
+```
 
 2. Install:
 
