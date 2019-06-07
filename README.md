@@ -4,7 +4,7 @@ Clean and minimalistic theme for [Alfred](https://www.alfredapp.com/)
 
 ## Preview
 
-![Pure theme for Alfred](img/alfred-theme-pure.png "Pure them for Alfred")
+![Pure theme for Alfred](img/screenshot.png "Pure them for Alfred")
 
 ## Install
 
