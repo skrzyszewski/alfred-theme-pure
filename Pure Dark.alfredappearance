@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 10,
+        "colorSelected" : "#FFFFFF7F",
+        "font" : "System Light",
+        "color" : "#FFFFFF65"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFF7F",
+        "font" : "System Light",
+        "color" : "#FFFFFF00"
+      },
+      "backgroundSelected" : "#FFFFFF19",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System Light",
+        "color" : "#FFFFFFE4"
+      },
+      "iconPaddingHorizontal" : 6,
+      "paddingVertical" : 6,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 4,
+      "background" : "#000000FF",
+      "spacing" : 8,
+      "text" : {
+        "size" : 30,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#FCF9FFFF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#000000FF",
+      "paddingHorizontal" : 9,
+      "width" : 560,
+      "borderPadding" : 0,
+      "borderColor" : "#FEFFFFFF",
+      "blur" : 0,
+      "roundness" : 4,
+      "paddingVertical" : 8
+    },
+    "credit" : "skrzyszewski.com",
+    "separator" : {
+      "color" : "#FFFFFFFF",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#FFFFFF32",
+      "thickness" : 2
+    },
+    "name" : "Pure Dark"
+  }
+}
