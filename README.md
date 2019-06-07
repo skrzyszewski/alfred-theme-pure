@@ -1,5 +1,5 @@
 # Pure theme for Alfred
-  
+
 Clean and minimalistic theme for [Alfred](https://www.alfredapp.com/)
 
 ## Preview
@@ -16,7 +16,7 @@ Clean and minimalistic theme for [Alfred](https://www.alfredapp.com/)
 $ git clone https://github.com/skrzyszewski/alfred-theme-pure.git
 ```
 
-2. Double-click on `Pure.alfredappearance` to install.
+2. Double-click on a theme to install.
 
 ### Setup via Packal
 
